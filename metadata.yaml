@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43215
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Miller_%28theologian%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45317#A-Memorial-of-Mrs.-Margaret-Breckinridge
 gutenberg_issued: '2014-04-05'
 gutenberg_type: Text
 identifiers:
