@@ -1,0 +1,41 @@
+_repo: A-Memorial-of-Mrs.-Margaret-Breckinridge_45317
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Alexander, Archibald
+    alias: Alexander, A. (Archibald)
+    birthdate: 1772
+    deathdate: 1851
+    gutenberg_agent_id: '43229'
+    url: http://www.gutenberg.org/2009/agents/43229
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Alexander
+covers:
+- cover_type: archival
+  image_path: 45317-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Breckinridge, John
+    birthdate: 1797
+    deathdate: 1841
+    gutenberg_agent_id: '43216'
+    url: http://www.gutenberg.org/2009/agents/43216
+  - agent_name: Miller, Samuel
+    birthdate: 1769
+    deathdate: 1850
+    gutenberg_agent_id: '43215'
+    url: http://www.gutenberg.org/2009/agents/43215
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Miller_%28theologian%29
+description: ''
+gutenberg_issued: '2014-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Breckinridge, Margaret (Miller), Mrs., 1802-1838'
+- !lcc 'CT'
+title: A Memorial of Mrs. Margaret Breckinridge
+url: http://www.gutenberg.org/ebooks/45317
